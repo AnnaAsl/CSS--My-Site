@@ -1,0 +1,95 @@
+/* Tags */
+
+body {
+  background-color: #e5dfdf;
+  color: #004445;
+  margin: 0px;
+  text-align: center;
+  padding: 0px;
+  display: block;
+}
+h1{
+  /* font-size: 2.5rem; */
+  padding-top: 100px;
+}
+hr{
+  border: dotted;
+  border-style: dotted;
+  border-width: 5px 0px 0px 0px ;
+  width: 20%;
+}
+/* classes */
+.p1{
+  text-align: center;
+}
+
+.top{
+  background-color: #00909e;
+  text-align: center;
+  padding-top: 50px;
+}
+.topcloud{
+  top: 40px;
+  right: 50px;
+  position: absolute ;
+  padding: 50px 50px;
+}
+.bottomcloud {
+  position: absolute;
+  top: 250px;
+  left: 150px;
+}
+.head{
+  padding: 50px;
+}
+.photo {
+width: 15%;
+height: 15%;
+padding: 30px;
+}
+.laptop {
+  width: 15%;
+  float: left;
+  padding-right: 30px;
+}
+.book {
+  width: 15%;
+  float: right;
+}
+.middle-container{
+  padding-left: 50px;
+  margin-right: 50px;
+}
+
+.profile{
+  padding: 100px;
+}
+.skills {
+  padding: 20px;
+  text-align: center;
+}
+.skill-row1 {
+  text-align: left;
+  margin:150px;
+}
+
+.skill-row2 {
+  text-align: right;
+  margin:150px;
+}
+.contact-me{
+  text-align: center;
+  padding: 100px;
+}
+.bottom-container{
+  text-align: center;
+  background-color: #00909e;
+  color: #e5dfdf;
+  padding: 50px;
+}
+.footer-link {
+  margin: 0px 20px;
+}
+.copyright{
+padding-top: 60px;
+}
